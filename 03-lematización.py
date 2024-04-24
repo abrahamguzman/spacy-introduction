@@ -10,7 +10,6 @@ Original file is located at
 import spacy
 import pandas as pd
 
-print("Hola Mundo")
 
 nlp = spacy.load('es_core_news_sm')
 
