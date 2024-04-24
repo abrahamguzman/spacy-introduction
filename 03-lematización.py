@@ -10,6 +10,8 @@ Original file is located at
 import spacy
 import pandas as pd
 
+print("Hola Mundo")
+
 nlp = spacy.load('es_core_news_sm')
 
 texto = """ Los estudiosos aman estudiar, es por eso que son felices estudiando.
